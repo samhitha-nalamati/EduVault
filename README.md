@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/24f0417d-9fd2-4545-ace6-e85ffa43d4f5) and start prompting.
+Simply visit the [project demo](https://edu-vault-ten.vercel.app) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
